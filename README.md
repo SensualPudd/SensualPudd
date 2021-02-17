@@ -43,31 +43,6 @@
   
 </p>
 
----
-  
-<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
-
-<!-- YOUTUBE:START -->
-- [Breaking: Obsidian Insiders Release 0.11.0 | Graph Cluster Styling & Persistent Folds!](https://www.youtube.com/watch?v=_gAe718BNUg)
-- [What I Love About WGU | My First Term & My University Workflow |](https://www.youtube.com/watch?v=V1T3hKYDrUs)
-- [How To Use Obsidian Remotely With GitHub Codespaces | FOAM | Dendron | Logseq |](https://www.youtube.com/watch?v=CaqhIoj8MWk)
-- [How My ADHD Medication Affected Me After 10 Years Unmedicated | Concerta | Ritalin](https://www.youtube.com/watch?v=jKvpU_PByos)
-- [Comprehensive Overview | LaTeX Mathjax Equation In [[Obsidian]]](https://www.youtube.com/watch?v=FA0z7oR7OWc)
-<!-- YOUTUBE:END -->
-
----
-
-<h3 align="center"><a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
-
-
-<!-- ARTICLES:START -->
-- [Manage Your Entire R Code Base With TODOr](https://towardsdatascience.com/manage-your-entire-r-code-base-with-todor-76dcd7abad9?source=rss-32e452bd16bd------2)
-- [How I Put My Mind Under Version Control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5?source=rss-32e452bd16bd------2)
-- [The Patchwork Package In R](https://medium.com/analytics-vidhya/the-patchwork-package-in-r-9468e4a7cd29?source=rss-32e452bd16bd------2)
-<!-- ARTICLES:END -->
-
----
-
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
