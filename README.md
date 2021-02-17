@@ -23,11 +23,7 @@
 </p>
 
 <br />
-<br />
-
 ---
-
-<br />
 <br />
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SensualPudd&style=flat-square&color=0088cc)
@@ -35,11 +31,7 @@
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Windows Theming 🕸️ and working on the Nord color scheme 🥳.
 
 <br />
-<br />
-
 ---
-
-<br />
 <br />
 
 ### Talking about Personal Stuffs:
@@ -51,11 +43,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 <br />
-<br />
-
 ---
-
-<br />
 <br />
 
 ### My Absolute Favorites:
@@ -66,11 +54,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🍕 &nbsp; Watching and improving speedrunns of different games!
 
 <br />
-<br />
-
 ---
-
-<br />
 <br />
 
 ### Languages and Tools:
@@ -84,11 +68,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
 ---
-
-<br />
 <br />
 
 ### Projects and Dev Stuffs:
