@@ -73,9 +73,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>☄️ Currently listening on</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31gpsvcmze7dbhlmcch3d6dydbba)
 </details>
 
 <details>
