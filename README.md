@@ -22,9 +22,25 @@
   
 </p>
 
+<br />
+<br />
+
+---
+
+<br />
+<br />
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SensualPudd&style=flat-square&color=0088cc)
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Windows Theming 🕸️ and working on the Nord color scheme 🥳.
+
+<br />
+<br />
+
+---
+
+<br />
+<br />
 
 ### Talking about Personal Stuffs:
 
@@ -34,12 +50,28 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 💬 &nbsp; How to reach me: SensualPudding#8128 on Discord. I am always heppay to help!.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
+<br />
+<br />
+
+---
+
+<br />
+<br />
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech and building cool stuffs!
 - 🔊 &nbsp; Listening to music!
 - 🎨 &nbsp; Personalizing apps!
 - 🍕 &nbsp; Watching and improving speedrunns of different games!
+
+<br />
+<br />
+
+---
+
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -55,6 +87,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br />
 
 ---
+
+<br />
+<br />
 
 ### Projects and Dev Stuffs:
 
