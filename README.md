@@ -28,19 +28,18 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on a TAS application for Give up robot etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 🛠 &nbsp; I’m currently working on a TAS application for Give up robot.
+- 🚀 &nbsp; I’m currently learning Actionscript 3 and css.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SensualPudd).
+- 💬 &nbsp; How to reach me: SensualPudding#8128 on Discord. I am always heppay to help!.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; I love exploring new tech and building cool stuffs!
+- 🔊 &nbsp; Listening to music!
+- 🎨 &nbsp; Personalizing apps!
+- 🍕 &nbsp; Watching and improving speedrunns of different games!
 
 ### Languages and Tools:
 
