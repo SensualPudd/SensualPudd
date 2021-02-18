@@ -112,9 +112,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10 Pro 1909</li>
-	    <li><b>Laptop: </b> Dell Precision 3520 (in need of a new one)</li>
+	    <li><b>Laptop: </b> Dell xps15 (9500)</li>
   	    <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Terminal: </b> Windows Terminal</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
 </details>
