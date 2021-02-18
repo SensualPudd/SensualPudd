@@ -32,7 +32,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working on a TAS application for Give up robot.
 - 🚀 &nbsp; I’m currently learning Actionscript 3 and css.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SensualPudd).
-- 💬 &nbsp; How to reach me: SensualPudding#8128 on Discord. I am always heppay to help!.
+- 💬 &nbsp; How to reach me: SensualPudding#8128 on Discord. I am always happy to help!.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ---
